@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @LanzerDev
-- 👀 I’m interested in web deelopment
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning javascript, react, PostgreSQL, Next.js, Express.js and Node.js
