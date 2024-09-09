@@ -1,3 +1,7 @@
-- 👋 Hi, I’m @LanzerDev
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning javascript, react, PostgreSQL, Next.js, Express.js and Node.js
+<link rel="stylesheet" href="./styles.css">
+<div align="center">
+    <img width="200px" src="./assets/perfil.jpeg">
+    <h1>Hi 👋, I'm Lanzer 🍦</h1>
+    <h3>Fullstack DevOps Developer</h3>
+    <h6>WIP</h6>
+</div>
